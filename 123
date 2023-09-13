@@ -1,0 +1,8 @@
+a,b=0,0;
+# print("12")
+def abc(a,b):
+    if(a==0 & b==0):
+        return 122
+    else:
+        return 123
+print(abc(a,b))
